@@ -1,6 +1,7 @@
 // Code your solution in this file!
-var companyName == "Scuber"
+var companyName = "Scuber"
 
 // companyName = "newName"
 
-mostProfitableNeighborhood = "Chelsea"
+var mostProfitableNeighborhood = "Chelsea"
+
