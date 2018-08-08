@@ -1,5 +1,5 @@
 // Code your solution in this file!
-companyName = "Scuber"
+var companyName == "Scuber"
 
 // companyName = "newName"
 
